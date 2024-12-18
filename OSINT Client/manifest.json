@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "OSINT Extension",
+  "description": "OSINT Extention to improve research on website",
+  "version": "1.0",  
+  "permissions": ["scripting", "activeTab", "background"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

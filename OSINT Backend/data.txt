@@ -1,0 +1,27 @@
+lieu,Écosse,176
+lieu,Hébrides intérieures,210
+lieu,Hébrides extérieures,266
+lieu,Royaume-Uni,291
+lieu,Barra,324
+lieu,Brésil,434
+lieu,Île de Barra,557
+lieu,Baie de Traigh Mhor,582
+lieu,Écosse,637
+lieu,Hébrides extérieures,668
+lieu,Écosse,730
+lieu,Aéroport de Barra,817
+lieu,Aéroport de Glasgow,1053
+lieu,Avranches,1141
+lieu,Le Val-Saint-Père,1144
+lieu,Île,1209
+lieu,Hébrides extérieures,1259
+lieu,Écosse,1315
+lieu,Royaume-Uni,1348
+date,1936,846
+date,17 juillet 2019,1368
+date,26 juin 2020,1405
+date,21 novembre 2016,1432
+date,22 septembre 2020,1439
+date,13 octobre 2024,1551
+personne,Thomas Romanacce,1411
+personne,Loganair,1048
